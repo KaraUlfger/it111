@@ -1,3 +1,5 @@
+package src;
+
 public class MyVariable1 {
     public static void main(String[] args){
         String name = "Kara"; // after statement, don't forget semicolon

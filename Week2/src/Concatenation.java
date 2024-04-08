@@ -1,3 +1,5 @@
+package src;
+
 public class Concatenation {
     public static void main(String[]args) {
         String color = "red";

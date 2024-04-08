@@ -1,5 +1,3 @@
-package src;
-
 public class MyDataTypes {
     public static void main(String[] args){
         short number1 = 32_000;

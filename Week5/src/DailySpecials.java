@@ -15,7 +15,7 @@ public class DailySpecials {
         double price;
         boolean saturday = specials.equals("Saturday");
         boolean sunday = specials.equals("Sunday");
-        int totalCoffee=0;
+        int totalCoffee;
 
         if(saturday||sunday) {
             System.out.println("Please enter a weekday and not a weekend day!");
